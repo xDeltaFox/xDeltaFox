@@ -3,7 +3,6 @@
 
 
 ### Onde pode me encontrar 👀
-![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 <p align="center">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
 </p>
