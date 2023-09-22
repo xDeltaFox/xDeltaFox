@@ -2,17 +2,7 @@
 ## Olá 👋 Me chamo, Israel.
 
 
-<p style="text-align: center;">
-<span style="font-size: 16px; background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-#~~~~~~~~~~~~#
-</span>
-<br>
-<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-<br>
-<span style="font-size: 16px; background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-#~~~~~~~~~~~~#
-</span>
-</p>
+![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white")
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
