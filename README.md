@@ -6,9 +6,11 @@ Aprendi a programar há 8 anos quando conheci a Unity engine e desde então, nã
 
 
 ### Onde pode me encontrar 👀
-<p align="center" href="https://linktr.ee/xdeltafox">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-</p>
+<a href="https://linktr.ee/xdeltafox">
+	<p align="center">
+	    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+	</p>
+</a>
 
 
 ### Meus conhecimentos
