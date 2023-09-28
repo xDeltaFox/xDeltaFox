@@ -2,6 +2,9 @@
 ## Olá 👋 Me chamo, Israel.
 
 
+Aprendi a programar há 8 anos quando conheci a Unity engine e desde então, não parei mais.
+
+
 ### Onde pode me encontrar 👀
 <p align="center">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
@@ -26,7 +29,6 @@
 
 #### Game Engines
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
 #### Produtividade
 ![](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
@@ -48,6 +50,9 @@
 #### Frameworks
 ![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
+#### Game Engines
+![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+
 #### IDE
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -59,6 +64,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xDeltaFox&theme=nightowl)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDeltaFox&layout=compact&theme=nightowl&hide_border=true&locale=pt-br&card_width=500)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xDeltaFox&theme=nightowl&locale=pt-br)
+
+
+
 
 
 
