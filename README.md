@@ -2,7 +2,7 @@
 ## Olá 👋 Me chamo, Israel.
 
 
-Aprendi a programar há 8 anos quando conheci a Unity engine e desde então, não parei mais.
+Aprendi a programar há 8 anos quando conheci a Unity engine. Estive uns bons anos parado, mas quero retornar para esse mundo o quanto antes.
 
 
 ### Onde pode me encontrar 👀
