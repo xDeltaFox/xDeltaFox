@@ -3,6 +3,10 @@
 
 
 Aprendi a programar há 8 anos quando conheci a Unity engine. Estive uns bons anos parado, mas quero retornar para esse mundo o quanto antes.
+Apoie minhas empreitadas no mundo da programação e estará apoiando o MistakeTeam ❤️❤️❤️
+Ajude-nos a criar e manter projetos úteis para a comunidade ✌🏾
+
+Visite a MistakeTeam para saber mais ❤️❤️❤️
 
 
 ### Onde pode me encontrar 👀
