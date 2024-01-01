@@ -60,7 +60,7 @@ Visite a MistakeTeam para saber mais ❤️❤️❤️
 ![](https://github-readme-stats.vercel.app/api?username=xDeltaFox&show_icons=true&theme=nightowl&hide_border=true&locale=pt-br)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xDeltaFox&theme=nightowl)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDeltaFox&layout=compact&theme=nightowl&hide_border=true&locale=pt-br&card_width=500)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xDeltaFox&theme=nightowl&locale=pt-br)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xDeltaFox&theme=nightowl&locale=pt-br)-->
 
 
 
