@@ -39,7 +39,7 @@ Visite a MistakeTeam para saber mais ❤️❤️❤️
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
-
+<!--
 ### Aprendendo
 
 ![](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,7 +52,7 @@ Visite a MistakeTeam para saber mais ❤️❤️❤️
 ![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+-->
 
 
 
